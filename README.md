@@ -40,5 +40,7 @@ This is a classic phishing email that uses email spoofing, fake URLs, and social
 
 - `phishing_email.txt` – The sample phishing email
 - `README.md` – This analysis report
+- ![Phishing Screenshot](phishing_ss1.png)
+
 
 
